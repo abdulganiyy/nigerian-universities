@@ -1,13 +1,13 @@
-# Nigerian Universities List
+# Nigerian Universities
 
-`nigerian-universities-list` is an npm package that provides a comprehensive list of universities in Nigeria, including their name, city, state, and logo. This package is useful for developers building applications that require information on Nigerian higher education institutions.
+`nigerian-universities` is an npm package that provides a comprehensive list of universities in Nigeria, including their name, city, state, and logo. This package is useful for developers building applications that require information on Nigerian higher education institutions.
 
 ## Installation
 
 You can install this package via npm:
 
 ```bash
-npm install nigerian-universities-list
+npm install nigerian-universities
 ```
 
 ## Usage
