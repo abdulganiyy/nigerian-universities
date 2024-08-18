@@ -90,4 +90,6 @@ Special thanks to all the contributors who helped to make this package better.
 
 ## Contact
 
-For any questions or support, please contact [devabdulganiyy@gmail.com](mailto:devabdulganiyy@gmail.com).
+For any questions, please contact [devabdulganiyy@gmail.com](mailto:devabdulganiyy@gmail.com).
+
+If you find this helpful, [Buy me coffee](https://pay.chippercash.com/pay/ASABWCDLGM)
